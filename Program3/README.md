@@ -1,1 +1,1 @@
-There are two parts to this assignments. Part 1 creates simple programs to fill a cache. Part 2 allows for the user to test a cache and it tracks statistics such as the hit rate. 
+There are two parts to this assignments. Part 1 creates simple programs to fill a cache. Part 1 will not run in its current state because the cache simulator is too large to be uploaded to github. Part 2 allows for the user to test a cache and it tracks statistics such as the hit rate. 
